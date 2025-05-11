@@ -1,18 +1,18 @@
 ===== WEEKLY STUDY STATISTICS =====
 
-Report generated: 2025-05-11 16:03:39
+Report generated: 2025-05-11 21:29:53
 Week starting: 2025-05-05
 Year: 2025, Week number: 19
 
-Total accumulated study time: 0:00:20
-Total points earned: 20
-Number of study sessions: 1
+Total accumulated study time: 0:03:09
+Total points earned: 186
+Number of study sessions: 4
 
 Current Study Session:
-- Study time: 0:00:20
-- Points earned: 20
+- Study time: 0:01:21
+- Points earned: 80
 - Current level: 1
-- Session started: 2025-05-11 16:03:15
+- Session started: 2025-05-11 21:29:00
 
 This Week's Study Sessions:
-- 2025-05-11: 0:00:20 studied, 20 points, level 1
+- 2025-05-11: 0:01:21 studied, 80 points, level 1
